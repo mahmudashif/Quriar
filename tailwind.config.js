@@ -5,7 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      maxWidth:{
+        "container" : "1320px"
+      },
+      fontFamily:{
+        "raleway": "Raleway",
+        "oxanium": "Oxanium"
+      }
+    },
   },
   plugins: [],
 }
