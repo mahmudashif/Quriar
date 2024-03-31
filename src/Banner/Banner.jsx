@@ -13,7 +13,7 @@ const Banner = () => {
         <p className="text-[20px] w-[330px] text-[#4D4D4D] mt-4">
           We deliver your products safely to your home in a reasonable time.
         </p>
-        <button className="text-[20px] px-5 py-3 bg-[#F95C19] rounded-[5px] mt-10 font-extrabold capitalize font-oxanium">
+        <button className="text-[20px] text-white px-5 py-3 bg-[#F95C19] rounded-[5px] mt-10 font-extrabold capitalize font-oxanium">
           get started<FaArrowRight className="inline ml-3 text-[20px]" />
         </button>
       </div>
