@@ -5,7 +5,7 @@ import avatar from "../assets/Avatar.png";
 
 const Testimonial = () => {
   return (
-    <div className="mt-[150px] font-raleway bg-primary">
+    <div className="mt-[150px] font-raleway bg-primary pb-12">
       <div className="container mx-auto font-raleway">
         <div className="flex items-center">
           <img

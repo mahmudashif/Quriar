@@ -1,4 +1,5 @@
 import Banner from "./Banner/Banner"
+import Form from "./Form/Form"
 import Navbar from "./Navbar/Navbar"
 import Services from "./Services/Services"
 import SecondBanner from "./Successes/SecondBanner/SecondBanner"
@@ -16,6 +17,7 @@ function App() {
       <Successes/>
       <SecondBanner/>
       <Testimonial/>
+      <Form/>
     </>
   )
 }
