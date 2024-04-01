@@ -4,8 +4,8 @@ import { FaArrowRight } from "react-icons/fa";
 
 const Banner = () => {
   return (
-    <div className="pl-[293px] absolute flex pt-[170px] font-raleway">
-      <div className="pt-[170px] relative">
+    <div className="pl-[293px] flex pt-[170px] font-raleway">
+      <div className="pt-[170px]">
         <h1 className="text-[49px] w-[516px]">
           A trusted provider of{" "}
           <span className="font-extrabold">courier services.</span>

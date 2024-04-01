@@ -1,5 +1,6 @@
 import Banner from "./Banner/Banner"
 import Navbar from "./Navbar/Navbar"
+import Services from "./Services/Services"
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar/>
       <Banner/>
+      <Services/>
     </>
   )
 }

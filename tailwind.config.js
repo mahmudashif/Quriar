@@ -11,7 +11,13 @@ export default {
       },
       fontFamily:{
         "raleway": "Raleway",
-        "oxanium": "Oxanium"
+        "oxanium": "Oxanium",
+      },
+      backgroundColor:{
+        "primary":"#FFF6E4"
+      },
+      colors:{
+        "orange":"#F95C19"
       }
     },
   },
