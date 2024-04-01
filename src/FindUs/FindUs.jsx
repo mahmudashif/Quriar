@@ -7,7 +7,7 @@ import { IoCall } from "react-icons/io5";
 
 const FindUs = () => {
   return (
-    <div className="container bg-red-200 mx-auto font-oxanium pb-[150px]">
+    <div className="container mx-auto font-oxanium pb-[150px]">
       <div className="text-center">
         <h3 className="uppercase text-orange font-bold text-[31px]">find us</h3>
         <h3 className="font-extrabold capitalize font-raleway text-[39px] text-[#261134]">
@@ -39,7 +39,10 @@ const FindUs = () => {
         </div>
       </div>
       <div className="mt-[25px]">
-        <button className="mx-auto flex items-center w-[560px] py-6 px-[112px] rounded-[16px] justify-center font-bold text-xl text-white bg-orange"><IoCall className="mr-2"/>Call us to delivery  123-456789</button>
+        <button className="mx-auto flex items-center w-[560px] py-6 px-[112px] rounded-[16px] justify-center font-bold text-xl text-white bg-orange">
+          <IoCall className="mr-2" />
+          Call us to delivery 123-456789
+        </button>
       </div>
     </div>
   );

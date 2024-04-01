@@ -1,5 +1,6 @@
 import Banner from "./Banner/Banner"
 import FindUs from "./FindUs/FindUs"
+import Footer from "./Footer/Footer"
 import Form from "./Form/Form"
 import Navbar from "./Navbar/Navbar"
 import Services from "./Services/Services"
@@ -20,6 +21,7 @@ function App() {
       <Testimonial/>
       <Form/>
       <FindUs/>
+      <Footer/>
     </>
   )
 }
