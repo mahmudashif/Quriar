@@ -3,7 +3,7 @@ import ladyvector from "../assets/Illustration.png";
 
 const Form = () => {
   return (
-    <div className="bg-primary pt-[172px] font-oxanium">
+    <div className="bg-primary pt-[172px] pb-[172px] font-oxanium">
       <div className="w-[872px] mx-auto flex justify-between">
         <div>
           <img src={ladyvector} alt="" />
